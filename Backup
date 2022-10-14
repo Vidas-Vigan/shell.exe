@@ -1,0 +1,9 @@
+#!/bin/bash
+sudo wc -l /var/log/auth.log >numeber_connection- date +%d -%m -%Y -%H :%M
+
+var -cf number_connection- date +%d -%m -%Y -%H -%M .tar .gz number_connection- date +%d-%m -%Y %H %M
+
+var number_connection- date  +%d -%m -%Y - %H %M ;tar. gz number_connection- date +%d-%m-%Y-%H %M
+
+var number_connection- date +%d-%m-%Y-%H-%M .tar.gz /home/manjaro/Document/shelle_exe/job8/Backup
+
